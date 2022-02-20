@@ -1,0 +1,17 @@
+h1{
+    color:blue; 
+} 
+a{
+    text-decoration: none; 
+    color: red;
+} 
+ul{
+    color: pink;
+} 
+p{
+    color: rgb(255, 0, 191);
+} 
+hr{
+    max-width: 300px; 
+    margin-left: 0;
+}
